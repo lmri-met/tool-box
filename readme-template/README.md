@@ -1,19 +1,21 @@
 # Project's Title
 > Project's short description
 
+xandratxan/physical-magnitude
+
 Activity
 
-![Github Created At](https://img.shields.io/github/created-at/lmri-met/sites-guideradpros)
-![GitHub contributors](https://img.shields.io/github/contributors/lmri-met/sites-guideradpros)
-![GitHub language count](https://img.shields.io/github/languages/count/lmri-met/sites-guideradpros)
-![GitHub top language](https://img.shields.io/github/languages/top/lmri-met/sites-guideradpros)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/lmri-met/sites-guideradpros)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/lmri-met/sites-guideradpros)
-![GitHub License](https://img.shields.io/github/license/lmri-met/sites-guideradpros)
+![Github Created At](https://img.shields.io/github/created-at/xandratxan/physical-magnitude)
+![GitHub contributors](https://img.shields.io/github/contributors/xandratxan/physical-magnitude)
+![GitHub language count](https://img.shields.io/github/languages/count/xandratxan/physical-magnitude)
+![GitHub top language](https://img.shields.io/github/languages/top/xandratxan/physical-magnitude)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/xandratxan/physical-magnitude)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/xandratxan/physical-magnitude)
+![GitHub License](https://img.shields.io/github/license/xandratxan/physical-magnitude)
 
-![GitHub forks](https://img.shields.io/github/forks/lmri-met/sites-guideradpros)
-![GitHub Repo stars](https://img.shields.io/github/stars/lmri-met/sites-guideradpros)
-![GitHub watchers](https://img.shields.io/github/watchers/lmri-met/sites-guideradpros)
+![GitHub forks](https://img.shields.io/github/forks/xandratxan/physical-magnitude)
+![GitHub Repo stars](https://img.shields.io/github/stars/xandratxan/physical-magnitude)
+![GitHub watchers](https://img.shields.io/github/watchers/xandratxan/physical-magnitude)
 
 Version? Organization? Status (non-stable)?
 
@@ -69,7 +71,7 @@ Distributed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 
 
 <a name="contribute"></a>
 ## Contribute
-Contributions are welcome. Please check the [issues page](https://github.com/user/repository/issues) if you want to contribute.
+Contributions are welcome. Please check the [issues page](https://github.com/xandratxan/physical-magnitude/issues) if you want to contribute.
 
 <a name="support"></a>
 ## Support
