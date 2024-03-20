@@ -1,6 +1,4 @@
 # Project's Title
-> Project's short description
-
 
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/xandratxan/physical-magnitude)
 ![GitHub contributors](https://img.shields.io/github/contributors/xandratxan/physical-magnitude)
@@ -13,6 +11,12 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/xandratxan/physical-magnitude)
 ![GitHub watchers](https://img.shields.io/github/watchers/xandratxan/physical-magnitude)
 ![GitHub forks](https://img.shields.io/github/forks/xandratxan/physical-magnitude)
+
+> Project's short description
+> 
+> ![Static Badge](https://img.shields.io/badge/Documentation-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude%2Fblob%2Fmain%2FREADME.md)
+> ![Static Badge](https://img.shields.io/badge/Surce_code-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude)
+> ![Static Badge](https://img.shields.io/badge/Contribute-blue?link=https%3A%2F%2Fgithub.com%2Fxandratxan%2Fphysical-magnitude%2Fissues)
 
 ## Table of Contents
 - [Description](#description)
