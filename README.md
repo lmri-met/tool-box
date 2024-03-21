@@ -48,7 +48,7 @@ Example:
 <a name="readme-template"></a>
 ### 2. Markdown template `README_template.md`
 #### Description:
-`README_template.md`: A simple README.md template for a GitHub repository.
+`README_template.md` is a simple README.md template for a GitHub repository.
 #### Usage:
 Download the template and customize it to yout needs.
 
