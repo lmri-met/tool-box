@@ -12,10 +12,10 @@
 ![GitHub forks](https://img.shields.io/github/forks/lmri-met/tool-box)
 
 > Collection of utilities, functions, and classes with a focus on modularity and reusability
-> 
-> ![Static Badge](https://img.shields.io/badge/Documentation-blue?link=https%3A%2F%2Fgithub.com%2Flmri-met%2Ftool-box%2Fblob%2Fmain%2FREADME.md)
-> ![Static Badge](https://img.shields.io/badge/Surce_code-blue?link=https%3A%2F%2Fgithub.com%2Flmri-met%2Ftool-box)
-> ![Static Badge](https://img.shields.io/badge/Contribute-blue?link=https%3A%2F%2Fgithub.com%2Flmri-met%2Ftool-box%2Fissues)
+>
+> [![Static Badge](https://img.shields.io/badge/Documentation-blue)](https://github.com/lmri-met/tool-box/blob/main/README.md)
+> [![Static Badge](https://img.shields.io/badge/Surce_code-blue)](https://github.com/lmri-met/tool-box)
+> [![Static Badge](https://img.shields.io/badge/Contribute-blue)](https://github.com/lmri-met/tool-box/issues)
 
 ## Table of Contents
 - [Features](#features)
